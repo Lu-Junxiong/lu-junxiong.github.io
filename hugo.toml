@@ -3,7 +3,8 @@ languageCode = 'zh-cn'
 title = 'Xlunar'
 theme = "paper"
 [params]
+    name = 'X'
     bio = 'Learn to learn.'
-    github = "lou-junxiong"
+    github = "lu-junxiong"
     avatar = "https://avatars.githubusercontent.com/u/133139910?s=400&u=2831aed83747e3f0b88c7b4f59eff7296d90dc77&v=4"
 
